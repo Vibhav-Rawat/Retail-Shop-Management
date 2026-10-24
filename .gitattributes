@@ -1,0 +1,2 @@
+db_connect.py linguist-language=SQL
+*.py linguist-detectable=true
